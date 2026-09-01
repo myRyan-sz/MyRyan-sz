@@ -1,205 +1,58 @@
-<!-- ===================== BANNER ===================== -->
+<div align="center">
 
-<p align="center">
-  <img src="./assets/banner.jpg" width="100%" />
-</p>
+<img src="./assets/banner.jpg" width="100%" alt="banner"/>
 
-<br>
+<br/>
 
-<!-- ===================== APRESENTAÇÃO ===================== -->
+<img src="./assets/avatar.jpg" width="140" style="border-radius:50%;" alt="avatar"/>
 
-<h1 align="center">
-  Olá 👋, eu sou o Shady
-</h1>
+### Hi 👋, Imma Ryan
 
-<h3 align="center">
-  Desenvolvedor Backend em formação
-</h3>
+**Backend Developer**
 
-<p align="center">
-  <strong>Just Code Nig</strong>
-</p>
+`Just Code`
 
-<p align="center">
-  Desenvolvendo projetos backend com foco em código limpo,
-  boas práticas e soluções escaláveis.
+Building reliable backend systems with clean architecture and scalable solutions.
+
+</div>
+
+---
+
+### 🚀 About Me
+
+**Ryan**, aqui — estudante de Desenvolvimento de Sistemas na ETEC, focado em me tornar desenvolvedor Back-end.
+
+Gosto de construir aplicações organizadas, aprender na prática e evoluir constantemente meu entendimento sobre sistemas reais.
+
+Atualmente estou aprendendo **Angular, MySQL e JSON**, além de já ter conhecimento em **C#, C, Python, HTML e CSS**.
+
+Meu objetivo é simples: escrever código limpo, construir software confiável e me tornar um desenvolvedor capaz de criar sistemas que duram.
+
+---
+
+### 🤝 Connect
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- ===================== SOBRE MIM ===================== -->
+### 💻 Tech Stack
 
-<h2 align="center">
-  🚀 Sobre mim
-</h2>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### Shaddy, aqui 👋
-
-Sou estudante de **Engenharia da Computação**, atualmente focado em desenvolvimento backend.
-
-Gosto de construir projetos e entender como sistemas funcionam por trás das aplicações, sempre buscando melhorar minhas habilidades de programação e arquitetura de software.
-
-Atualmente estou estudando e praticando:
-
-- 🐍 Python
-- 💻 C#
-- ⚙️ C
-- 🗄️ MySQL
-- 🌐 HTML & CSS
-- 🅰️ Angular
-- 📦 JSON
-
-Meu objetivo é simples:
-
-> **Escrever código limpo, construir projetos úteis e evoluir constantemente até me tornar um excelente desenvolvedor backend.**
-
-</td>
-
-<td width="45%" align="center" valign="middle">
-
-<img src="./assets/about.jpg" width="90%" />
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================== CONECTE-SE ===================== -->
-
-<h2 align="center">
-  🤝 Conecte-se comigo
-</h2>
-
-<p align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/SEU_USUARIO/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:SEU_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Angular-808080?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-808080?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-808080?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-<h2 align="center">
-  💻 Tech Stack
-</h2>
-
-<p align="center">
-
-<!-- Python -->
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  width="50"
-  height="50"
-/>
-
-<!-- C# -->
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-  width="50"
-  height="50"
-/>
-
-<!-- C -->
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-  width="50"
-  height="50"
-/>
-
-<!-- HTML -->
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  width="50"
-  height="50"
-/>
-
-<!-- CSS -->
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  width="50"
-  height="50"
-/>
-
-</p>
-
-<p align="center">
-
-<!-- Angular - DESBLOQUEANDO -->
-<img
-  src="https://img.shields.io/badge/Angular-808080?style=for-the-badge&logo=angular&logoColor=808080"
-  height="40"
-/>
-
-<!-- MySQL - DESBLOQUEANDO -->
-<img
-  src="https://img.shields.io/badge/MySQL-808080?style=for-the-badge&logo=mysql&logoColor=808080"
-  height="40"
-/>
-
-<!-- JSON - DESBLOQUEANDO -->
-<img
-  src="https://img.shields.io/badge/JSON-808080?style=for-the-badge&logo=json&logoColor=808080"
-  height="40"
-/>
-
-</p>
-
-<p align="center">
-  <sub>
-    🟢 Tecnologias que já estou praticando &nbsp;&nbsp;|&nbsp;&nbsp;
-    ⚪ Tecnologias que estou desbloqueando
-  </sub>
-</p>
-
----
-
-
-<h2 align="center">
-  🎯 Meu objetivo
-</h2>
-
-<p align="center">
-  Estou construindo minha base em desenvolvimento de software,
-  com foco em backend, APIs, bancos de dados e boas práticas.
-</p>
-
-<p align="center">
-  <strong>
-    Aprender → Construir → Melhorar → Repetir.
-  </strong>
-</p>
-
----
-
-<h2 align="center">
-  📈 Atividade
-</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true"
-    width="95%"
-  />
-</p>
-
----
-
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
-</p>
+<sub>🔘 Ícones em cinza = tecnologias que ainda estou desbloqueando</sub>
