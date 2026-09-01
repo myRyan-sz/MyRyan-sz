@@ -45,13 +45,6 @@ Gosto de construir projetos e entender como sistemas funcionam por trás das apl
 
 Atualmente estou estudando e praticando:
 
-- 🐍 Python
-- 💻 C#
-- ⚙️ C
-- 🗄️ MySQL
-- 🌐 HTML & CSS
-- 🅰️ Angular
-- 📦 JSON
 
 Meu objetivo é simples:
 
@@ -73,23 +66,7 @@ Meu objetivo é simples:
 
 <h2 align="center">
   🤝 Conecte-se comigo
-</h2>
 
-<p align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/SEU_USUARIO/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:SEU_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
 
 ---
 
@@ -99,75 +76,7 @@ Meu objetivo é simples:
   💻 Tech Stack
 </h2>
 
-<p align="center">
 
-<!-- Python -->
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  width="50"
-  height="50"
-/>
-
-<!-- C# -->
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-  width="50"
-  height="50"
-/>
-
-<!-- C -->
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-  width="50"
-  height="50"
-/>
-
-<!-- HTML -->
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  width="50"
-  height="50"
-/>
-
-<!-- CSS -->
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  width="50"
-  height="50"
-/>
-
-</p>
-
-<p align="center">
-
-<!-- Angular - DESBLOQUEANDO -->
-<img
-  src="https://img.shields.io/badge/Angular-808080?style=for-the-badge&logo=angular&logoColor=808080"
-  height="40"
-/>
-
-<!-- MySQL - DESBLOQUEANDO -->
-<img
-  src="https://img.shields.io/badge/MySQL-808080?style=for-the-badge&logo=mysql&logoColor=808080"
-  height="40"
-/>
-
-<!-- JSON - DESBLOQUEANDO -->
-<img
-  src="https://img.shields.io/badge/JSON-808080?style=for-the-badge&logo=json&logoColor=808080"
-  height="40"
-/>
-
-</p>
-
-<p align="center">
-  <sub>
-    🟢 Tecnologias que já estou praticando &nbsp;&nbsp;|&nbsp;&nbsp;
-    ⚪ Tecnologias que estou desbloqueando
-  </sub>
-</p>
-
----
 
 <!-- ===================== OBJETIVO ===================== -->
 
@@ -184,22 +93,7 @@ Meu objetivo é simples:
   <strong>
     Aprender → Construir → Melhorar → Repetir.
   </strong>
-</p>
 
----
-
-<!-- ===================== ATIVIDADE ===================== -->
-
-<h2 align="center">
-  📈 Atividade
-</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true"
-    width="95%"
-  />
-</p>
 
 ---
 
