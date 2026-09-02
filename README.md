@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="./assets/banner.jpg" width="100%" />
+  <img src="./banner.jpg" width="100%" />
 </p>
 
 <br>
@@ -36,7 +36,7 @@
 <table>
 <tr>
 <td width="55%" valign="top">
-
+  
 ### Shaddy, aqui 👋
 
 Sou estudante de **Engenharia da Computação**, atualmente focado em desenvolvimento backend.
@@ -53,8 +53,8 @@ Meu objetivo é simples:
 </td>
 
 <td width="45%" align="center" valign="middle">
+  <img src="./avatar.jpg" width="90%" />
 
-<img src="./assets/about.jpg" width="90%" />
 
 </td>
 </tr>
