@@ -9,21 +9,14 @@
 <!-- ===================== APRESENTAÇÃO ===================== -->
 
 <h1 align="center">
-  Olá 👋, eu sou o Shady
+Oi, eu sou o Ryan
 </h1>
 
 <h3 align="center">
   Desenvolvedor Backend em formação
 </h3>
 
-<p align="center">
-  <strong>Just Code Nig</strong>
-</p>
 
-<p align="center">
-  Desenvolvendo projetos backend com foco em código limpo,
-  boas práticas e soluções escaláveis.
-</p>
 
 ---
 
@@ -37,18 +30,16 @@
 <tr>
 <td width="55%" valign="top">
   
-### Shaddy, aqui 👋
+### Ryan, aqui 
+sou estudante de Desinvolvimento de Sistemas na ETEC, focado em desenvolvimento backend.
 
-Sou estudante de **Engenharia da Computação**, atualmente focado em desenvolvimento backend.
+Gosto de automatização e programar e C e C#, procuro continuar estudando sobre a área para minha compreensão sobre sistemas backend.
 
-Gosto de construir projetos e entender como sistemas funcionam por trás das aplicações, sempre buscando melhorar minhas habilidades de programação e arquitetura de software.
+Atualmente, estou aprendendo C#, SQL Server, Node.js, Docker, Git, .NET MAUI/XAML, e além de fundamentos de UML/POO e gestão de projetos.
 
-Atualmente estou estudando e praticando:
+Meu objetivos são: 
 
-
-Meu objetivo é simples:
-
-> **Escrever código limpo, construir projetos úteis e evoluir constantemente até me tornar um excelente desenvolvedor backend.**
+> **passar em uma faculdade boa, começar a trabalhar na área e evoluir para DEV backend..**
 
 </td>
 
