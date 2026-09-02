@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="./banner.jpg" width="100%" />
+  <img src="./banner.jpg" width="95%" />
 </p>
 
 <br>
@@ -23,7 +23,7 @@ Oi, eu sou o Ryan
 <!-- ===================== SOBRE MIM ===================== -->
 
 <h2 align="center">
-  🚀 Sobre mim
+  Sobre mim
 </h2>
 
 <table>
@@ -56,10 +56,31 @@ Meu objetivos são:
 <!-- ===================== CONECTE-SE ===================== -->
 
 <h2 align="center">
-  🤝 Conecte-se comigo
+   🌐 Connect With Me
 <h2/>
 
   <br>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/a" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" title="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/myRyan-sz" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="36" height="36" title="GitHub" />
+</a>
+
+</div>
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">
+  💻 Tech Stack
+</h2>
+
+<br>
 
   <div align="center">
 
@@ -76,34 +97,6 @@ Meu objetivos são:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" title="Angular" />
 
 </div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/a" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" title="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://github.com/myRyan-sz" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="36" height="36" title="GitHub" />
-</a>
-
-</div>
-
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-<h2 align="center">
-  💻 Tech Stack
-</h2>
-
-
-
 <!-- ===================== OBJETIVO ===================== -->
 
 <h2 align="center">
