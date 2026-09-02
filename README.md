@@ -23,7 +23,7 @@ Oi, eu sou o Ryan
 <!-- ===================== SOBRE MIM ===================== -->
 
 <h2 align="center">
-  Sobre mim
+ 👾 Sobre mim
 </h2>
 
 <table>
@@ -117,5 +117,5 @@ Meu objetivos são:
 ---
 
 <p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+  <i>""Codifique. Aprenda. Construa. Repita.""</i>
 </p>
